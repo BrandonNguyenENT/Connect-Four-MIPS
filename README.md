@@ -3,7 +3,7 @@ Connect Four Game -  Video-Game Programming (MIPS Assembly)
 
 ## Purpose
 
-This repository contains all important files related to the project made in this course. 
+This repository contains all important files related to the project made in this course. This project is a standard Connect 4 game that consists of two player turn-based I/O, 
 
 ## Contents
 
@@ -21,9 +21,21 @@ This repository contains all important files related to the project made in this
 
 COMPE271: Computer Organization
 
+Organization and operation of computer hardware and software. Operating system shell and services. Program design and development. Input-output programming. Multi-module and mixed-language programming. Assembler and C language.
+
+## Learning Outcomes
+
+- Design and developed video-game product using Assembler and C programming
+  
+- Operated input-output and multi-language programming, software, and hardware
+  
+- Composed and submitted weekly lab reports and diagnostics regarding project
+
+- Produced and documented technical final report detailing project elements and handling
+
 ## Notes
 
-All files necessary are in place.
+All files necessary are in the respository.
 
 ## License
 
