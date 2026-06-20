@@ -49,6 +49,8 @@ Organization and operation of computer hardware and software. Operating system s
 
 All files necessary are in the respository.
 
+MARS MIPS Assembler and Runtime Simulator - https://computerscience.missouristate.edu/mars-mips-simulator.htm
+
 ## License
 
 MIT © Richard McRichface
